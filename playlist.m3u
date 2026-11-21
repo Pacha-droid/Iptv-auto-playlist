@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="beIN Sports 1 Turk" group-title="BeIN SPORTS (AR)",beIN Sports 1 Turk
-http://57.129.0.61:1990/stream/117/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS XTRA en Espanol (1080p)" group-title="BeIN SPORTS (BACKUP LANG)",beIN SPORTS XTRA en Espanol (1080p)
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS XTRA (1080p)" group-title="BeIN SPORTS (BACKUP LANG)",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA en Espanol (1080p)" group-title="BeIN SPORTS (BACKUP LANG)",beIN SPORTS XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 Turk (1080p)" group-title="BeIN SPORTS (BACKUP LANG)",beIN Sports 1 Turk (1080p)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad
 #EXTINF:-1 tvg-name="beIN Sports USA (576p)" group-title="BeIN SPORTS (BACKUP LANG)",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
